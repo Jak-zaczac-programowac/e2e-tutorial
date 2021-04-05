@@ -5,7 +5,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const allowedRegistrationFields = ["email", "password", "rules"];
+const allowedRegistrationFields = ["email", "password"];
 
 function validate(data) {
   if (Object.keys(data).length === allowedRegistrationFields.length) {

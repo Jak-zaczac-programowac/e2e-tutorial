@@ -26,7 +26,6 @@ registrationForm.addEventListener("submit", (e) => {
     createUser({
       email: email.value,
       password: password.value,
-      rules: rules.checked,
     })
       .then((response) => {
         if (response.ok) {
