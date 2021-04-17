@@ -9,10 +9,12 @@ Aby uruchomić front-end wejdź (używając Twojego ulubionego terminala) do kat
 npm install
 npm run start
 ```
+Aplikacja będzie dostępna pod adresem http://localhost:8888
 
 ## Back-end
-Aby uruchomić front-end wejdź (używając Twojego ulubionego terminala) do katalogu **front-end** i wpisz: 
+W nowym oknie terminala przejdź do katalogu **back-end** i wpisz: 
 ```
 npm install
 npm run start
 ```
+I to wszystko :)
