@@ -6,11 +6,13 @@ Wszystkie kroki do napisania testu opisuję w tym wideo - https://youtu.be/V-uIa
 ## Front-end
 Aby uruchomić front-end wejdź (używając Twojego ulubionego terminala) do katalogu **front-end** i wpisz: 
 ```
+npm install
 npm run start
 ```
 
 ## Back-end
 Aby uruchomić front-end wejdź (używając Twojego ulubionego terminala) do katalogu **front-end** i wpisz: 
 ```
+npm install
 npm run start
 ```
